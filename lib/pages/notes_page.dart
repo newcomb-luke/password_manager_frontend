@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:password_manager_frontend/notes_section/notes_section.dart';
 
 import '../navbar/navbar.dart';
-import '../vault_page/vault_page.dart';
+import 'vault_page.dart';
 
 class NotesPageDesktop extends StatelessWidget {
   static const String route = "/notes";

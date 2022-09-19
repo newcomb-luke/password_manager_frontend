@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:password_manager_frontend/vault_section/vault_section.dart';
 
-import '../vault_item/vault_item.dart';
+import '../vault_section/vault_item.dart';
 
 class PasswordSectionDesktop extends StatelessWidget {
   final String name;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:password_manager_frontend/create_account_page/create_account_page.dart';
-import 'package:password_manager_frontend/gradient_background/gradient_background.dart';
-import 'package:password_manager_frontend/primary_button/primary_button.dart';
-import 'package:password_manager_frontend/signin_page/signin_page.dart';
+import 'package:password_manager_frontend/pages/create_account_page.dart';
+import 'package:password_manager_frontend/pages/gradient_background.dart';
+import 'package:password_manager_frontend/primary_button.dart';
+import 'package:password_manager_frontend/pages/signin_page.dart';
 
 class LandingPageDesktop extends StatelessWidget {
   static const String route = "/";

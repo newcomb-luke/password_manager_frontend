@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:password_manager_frontend/navbar/navbar.dart';
 import 'package:password_manager_frontend/password_section/password_section.dart';
-import 'package:password_manager_frontend/vault_page/vault_page.dart';
+import 'package:password_manager_frontend/pages/vault_page.dart';
 
 class PasswordsPageDesktop extends StatelessWidget {
   static const String route = "/passwords";

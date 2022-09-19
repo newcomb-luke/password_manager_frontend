@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../note_item/note_item.dart';
+import 'note_item.dart';
 import '../vault_section/vault_section.dart';
 
 class NotesSectionDesktop extends StatelessWidget {

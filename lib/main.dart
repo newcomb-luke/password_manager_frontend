@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:password_manager_frontend/account_page/account_page.dart';
-import 'package:password_manager_frontend/create_account_page/create_account_page.dart';
-import 'package:password_manager_frontend/landing_page/landing_page.dart';
-import 'package:password_manager_frontend/notes_page/notes_page.dart';
-import 'package:password_manager_frontend/passwords_page/passwords_page.dart';
-import 'package:password_manager_frontend/signin_page/signin_page.dart';
+import 'package:password_manager_frontend/pages/account_page.dart';
+import 'package:password_manager_frontend/pages/create_account_page.dart';
+import 'package:password_manager_frontend/pages/landing_page.dart';
+import 'package:password_manager_frontend/pages/notes_page.dart';
+import 'package:password_manager_frontend/pages/passwords_page.dart';
+import 'package:password_manager_frontend/pages/signin_page.dart';
 
 void main() {
   runApp(const MyApp());

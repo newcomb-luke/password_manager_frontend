@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:password_manager_frontend/account_page/account_page.dart';
-import 'package:password_manager_frontend/passwords_page/passwords_page.dart';
+import 'package:password_manager_frontend/pages/account_page.dart';
+import 'package:password_manager_frontend/pages/passwords_page.dart';
 
-import '../navbar_item/navbar_item.dart';
-import '../notes_page/notes_page.dart';
+import 'navbar_item.dart';
+import '../pages/notes_page.dart';
 
 enum VaultPage {
   passwords,

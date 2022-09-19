@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:password_manager_frontend/landing_page/landing_page.dart';
+import 'package:password_manager_frontend/pages/landing_page.dart';
 import 'package:password_manager_frontend/navbar/navbar.dart';
-import 'package:password_manager_frontend/secondary_button/secondary_button.dart';
-import 'package:password_manager_frontend/vault_page/vault_page.dart';
+import 'package:password_manager_frontend/secondary_button.dart';
+import 'package:password_manager_frontend/pages/vault_page.dart';
 
 class AccountPageDesktop extends StatelessWidget {
   static const String route = "/account";
